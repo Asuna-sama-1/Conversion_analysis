@@ -105,3 +105,6 @@ Dailly: The lowest cost of acquisition is at 10 am, and it also has a relatively
 
 
 Overall, if we are going to spend on a particular day/time for paid marketing to acquire customers, we should do it during the weekend morning around 10 for the lowest cost and higher return. 
+
+
+Check out the blog post here: https://medium.com/@asunadch/sales-conversion-analysis-efb2335f3f12
